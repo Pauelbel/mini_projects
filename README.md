@@ -1,1 +1,7 @@
-# mini_projects
+# mini_projects. Маленькие (однофайловые проекты)
+Превью лежит в папке с проектом
+
+# на Tkinter
+Калькулятор(calculator)
+Шкала(Scala)
+
