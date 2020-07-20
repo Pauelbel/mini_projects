@@ -3,5 +3,5 @@
 
 # на Tkinter
 - Калькулятор(calculator)
-- Шкала(Scala)
+- Шкала(Scale)
 
