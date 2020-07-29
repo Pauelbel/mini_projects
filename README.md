@@ -16,3 +16,7 @@
 # менюбар(MenuBar)
 
 ![менюбар(MenuBar)](https://github.com/Pauelbel/mini_projects/blob/master/Menubar_tk/menubar.PNG "менюбар(MenuBar)")
+
+# Uname,password_tk
+
+!Uname,password_tk](https://github.com/Pauelbel/mini_projects/blob/master/Uname%2Cpassword_tk/preview_Uname.password.PNG "Uname,password_tk")
